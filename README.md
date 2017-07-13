@@ -12,6 +12,7 @@
 ### still haven't implemented a move window box feture so you will have to deal with the windows where ever they pop up
 ### it is a working progect
 ### it's algrithem is very basic
+### The update feture doesn't work
 
 ## other info
 this was just a small project i started a long time ago (2016) and it was created in VB and didn't use threading and used a slow algrithem so it was very slow and froze and crashed a lot and i gave up and didn't upload it but then after learning more and coming a better programer i decided to remake it from scratch but in c# and used threading and a new algrithem.
