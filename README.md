@@ -8,8 +8,8 @@
 ### very small size (371 KB (13/07/2017))
 ### will notify you once the scan is done (this only works for file scans at the moment but will be added soon to the folder scan)
 ## cons
+### it doesn't use a form border style (meaning if it freezes you cant move it and it cant be scaled)
 ### every empty file (filesize of 0 bytes) it finds will be classed as a virus due to a error with the algrithem
-### still haven't implemented a move window box feture so you will have to deal with the windows where ever they pop up
 ### it is a working progect
 ### it's algrithem is very basic
 ### The update feture doesn't work
